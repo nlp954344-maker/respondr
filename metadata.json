@@ -1,0 +1,6 @@
+{
+  "name": "RespondR – Assam Campus Merch Survey",
+  "description": "Production-ready mobile-first streetwear survey app recording student merchandise preferences across all 35 districts of Assam with Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
